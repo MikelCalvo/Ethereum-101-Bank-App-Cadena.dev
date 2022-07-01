@@ -1,0 +1,26 @@
+{
+  "name": "ethereum101---bank-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikelCalvo/Ethereum-101-Bank-App-Cadena.dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikelCalvo/Ethereum-101-Bank-App-Cadena.dev/issues"
+  },
+  "homepage": "https://github.com/MikelCalvo/Ethereum-101-Bank-App-Cadena.dev#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1"
+  },
+  "devDependencies": {
+    "hardhat": "^2.9.9"
+  }
+}
